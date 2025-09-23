@@ -1,0 +1,75 @@
+
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+    padding-right: 20px;padding-left: 20px;
+}
+.logo a{
+    font-size: 35px; font-weight: 600; color: black;
+}
+li{
+    list-style: none; display:inline-block;
+}
+li a{
+    color: black; font-size: 18px; font-weight: bold; margin-right: 24px;
+}
+
+h1{
+    text-decoration: none;
+  color: #0073e6;
+  font-size: 35px ;
+  font-weight: 500;
+}
+.hero-section {
+  
+  margin-top: 60px;
+    
+}
+
+.content{
+    padding-right: 120px;padding-left: 120px;
+}
+
+
+.image-block
+{
+   padding-right: 300px;padding-left: 300px;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif; font-size:medium; color: black;
+    
+}
+h2{
+    margin-top: 36px;
+    padding-right: 120px;padding-left: 120px;
+}
+
+
+.projects ul {
+  display: center; align-items: center; justify-content: left;  
+  padding-right: 120px;padding-left: 120px;
+  
+}
+.projects li {
+  margin-bottom: 36px;
+  
+}
+.projects a {
+  text-decoration: none;
+  color: #0073e6;
+  font-weight: 500;
+}
+
+.skills-list {
+  padding-right: 120px;padding-left: 120px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.skills-list span {
+  background: #e0e7ff;
+  color: #1e3a8a;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 14px;
+}
